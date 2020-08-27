@@ -1,1 +1,8 @@
-{"repositories": ["sourcecred-test/example-github"]}
+{
+  "repositories": [
+    "HausDAO/pokemol-web",
+    "HausDAO/doahaus-web",
+    "HausDAO/wc",
+    "HausDAO/manifesto"
+  ]
+}
