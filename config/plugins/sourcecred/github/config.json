@@ -3,6 +3,8 @@
     "HausDAO/pokemol-web",
     "HausDAO/daohaus-web",
     "HausDAO/wc",
-    "HausDAO/manifesto"
+    "HausDAO/manifesto",
+    "HausDAO/daohaus-stats",
+    "HausDAO/daohaus-supergraph"
   ]
 }
