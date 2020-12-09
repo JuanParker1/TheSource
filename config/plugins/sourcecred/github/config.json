@@ -5,6 +5,10 @@
     "HausDAO/wc",
     "HausDAO/manifesto",
     "HausDAO/daohaus-stats",
-    "HausDAO/daohaus-supergraph"
+    "HausDAO/daohaus-supergraph",
+    "HausDAO/daohaus-hvac",
+    "HausDAO/MinionSummoner",
+    "HausDAO/Minion-Factory",
+    "HausDAO/Molochv2.1"
   ]
 }
